@@ -2,9 +2,11 @@
 
 # 💫 About Me:
 Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA last year in 2022, from <br> 
-Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br>
+Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 
-🔭 I’m currently working on some practice project<br>
+🔭 As a fresher, I am currently working on practice projects to hone my skills and gain experience in the field.<br>
+🔥 My goal is to develop a strong foundation in web development and prepare for future opportunities in the field.<br>
+
 🌱 I am currently learning and improving my skills on the MERN stack. As a Fresher, <br>
 🌱 I am dedicated to mastering the MERN stack and expanding my knowledge of web development. <br>
 🌱 I am always seeking out new challenges and opportunities to apply my skills in practical projects. <br>
