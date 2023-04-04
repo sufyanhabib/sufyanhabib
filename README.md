@@ -1,7 +1,8 @@
- 
+[![image](https://user-images.githubusercontent.com/26720225/229844268-4f112acf-8cc5-41a1-a81c-040a0bf3300c.png)](https://pbs.twimg.com/profile_banners/739818907/1660448770/1500x500)
+
 # 💫 About Me:
 Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA last year in 2022, from <br> 
-Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br><br><br>
+Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br>
 
 🔭 I’m currently working on some practice project<br>
 🌱 I am currently learning and improving my skills on the MERN stack. As a Fresher, <br>
