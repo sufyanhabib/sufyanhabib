@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA  last year in 2022, from  <br>Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br><br><br>🔭 I’m currently working on some practice project<br>🌱 I'm currently learning the MERN stack and working on improving myself on the MERN stack.<br>⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
 
-## 🌐 Socials: Connect with me:
+## 🌐 Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-dark-mode-only)
 &nbsp;&nbsp;
