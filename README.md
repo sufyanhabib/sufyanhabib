@@ -1,6 +1,15 @@
  
 # 💫 About Me:
-Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA  last year in 2022, from  <br>Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br><br><br>🔭 I’m currently working on some practice project<br>🌱 I'm currently learning the MERN stack and working on improving myself on the MERN stack.<br>⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
+Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA last year in 2022, from <br> 
+Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur,Bihar<br><br><br>
+
+🔭 I’m currently working on some practice project<br>
+🌱 I am currently learning and improving my skills on the MERN stack. As a Fresher, <br>
+🌱 I am dedicated to mastering the MERN stack and expanding my knowledge of web development. <br>
+🌱 I am always seeking out new challenges and opportunities to apply my skills in practical projects. <br>
+🌱 With a focus on continuous learning and improvement, I am committed to becoming a proficient MERN stack developer.<br>
+<br>
+⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
 
 ## 🌐 Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-light-mode-only)
@@ -14,8 +23,9 @@ Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Biha
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-dark.svg)]([https://codepen.io/sufyanhabib#gh-light-mode-only](https://codepen.io/sufyanhabib/full/qBpvLYV)#gh-dark-mode-only)
+ 
+ 
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
