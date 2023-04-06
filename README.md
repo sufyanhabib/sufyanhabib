@@ -66,6 +66,6 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sufyanhabib&icon=5&color=1)](https://visitcount.itsvg.in)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
