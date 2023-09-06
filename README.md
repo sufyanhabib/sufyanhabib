@@ -13,7 +13,7 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 🌱 With a focus on continuous learning and improvement, I am committed to becoming a proficient MERN stack developer.<br>
 <br>
 ⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a27e2dd99c9d6731aa7097?variant=dark&roadmaps=react%2Cjavascript%2Cjava)](https://roadmap.sh)
 ## 🌐 Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-dark-mode-only)
