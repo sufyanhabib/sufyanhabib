@@ -55,9 +55,6 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 ![](https://github-profile-trophy.vercel.app/?username=sufyanhabib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/sufyanhabib1?s=08)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sufyanhabib&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
