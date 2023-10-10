@@ -29,7 +29,7 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 [![website](./img/globe-light.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-dark-mode-only)
  
- [![An image of @sufyanhabib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufyanhabib)](https://holopin.io/@sufyanhabib)
+[![An image of @sufyanhabib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufyanhabib)](https://holopin.io/@sufyanhabib)
 
 
 # 💻 Tech Stack:
