@@ -29,7 +29,7 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 [![website](./img/globe-light.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-dark-mode-only)
  
- 
+ [![An image of @sufyanhabib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufyanhabib)](https://holopin.io/@sufyanhabib)
 
 
 # 💻 Tech Stack:
@@ -47,8 +47,8 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sufyanhabib&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sufyanhabib&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
