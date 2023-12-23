@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA last year in 2022, from <br> 
 Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
+<img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/>
 
 🔭 As a fresher, I am currently working on practice projects to hone my skills and gain experience in the field.<br>
 🔥 My goal is to develop a strong foundation in web development and prepare for future opportunities in the field.<br>
