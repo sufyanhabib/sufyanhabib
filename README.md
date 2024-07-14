@@ -47,22 +47,22 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 <br />
 <br />
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sufyanhabib&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanhabib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sufyanhabib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sufyanhabib&theme=onestar&no-frame=false&no-bg=false&margin-w=4) -->
 
 
  
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sufyanhabib&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- [comment]: ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sufyanhabib&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sufyanhabib&icon=5&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=sufyanhabib&icon=5&color=1)](https://visitcount.itsvg.in) -->
  
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
