@@ -34,7 +34,7 @@ Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
 
 
 # 💻 Tech Stack:
-[![roadmap.sh](https://roadmap.sh/card/wide/64a27e2dd99c9d6731aa7097?variant=dark&roadmaps=python%2Creact%2Cjavascript%2Cjava)](https://roadmap.sh)
+<!--[![roadmap.sh](https://roadmap.sh/card/wide/64a27e2dd99c9d6731aa7097?variant=dark&roadmaps=python%2Creact%2Cjavascript%2Cjava)](https://roadmap.sh) -->
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
  
