@@ -5,7 +5,7 @@
 <div align="left">
 
 # 👨‍💼 Abubakar Habib
-**Network Engineer | React.js Developer | Hacktoberfest Contributor**
+**Network Engineer | React Developer | Open Source Contributor**  
 <br>
 **💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
 
