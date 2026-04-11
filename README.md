@@ -9,11 +9,26 @@
 <br>
 **💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanahab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar-habib/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanhabib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abubakar-habib-58010b142)
 
 </div>
 
+
+## 🌐 Connect with me:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/sufyanhabib80?igshid=ZDdkNTZiNTM=#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/sufyanhabib80?igshid=ZDdkNTZiNTM=#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sufyanhabib1?s=08#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sufyanhabib1?s=08#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-dark-mode-only)
+ 
+[![An image of @sufyanhabib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufyanhabib)](https://holopin.io/@sufyanhabib)
 ---
 
 ## 🎯 Professional Summary
@@ -97,21 +112,6 @@ Muzaffarpur, Bihar | Completed 2022
 ⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
 
 
-
-## 🌐 Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abubakar-habib-58010b142#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sufyanhabib80?igshid=ZDdkNTZiNTM=#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sufyanhabib80?igshid=ZDdkNTZiNTM=#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/sufyanhabib1?s=08#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/sufyanhabib1?s=08#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codepen.io/sufyanhabib#gh-light-mode-only#gh-dark-mode-only)
- 
-[![An image of @sufyanhabib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sufyanhabib)](https://holopin.io/@sufyanhabib)
 
 
 
