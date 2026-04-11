@@ -6,7 +6,6 @@
 
 # 👨‍💼 Abubakar Habib
 **Network Engineer | React Developer | Open Source Contributor**  
-<br>
 **💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanhabib)
