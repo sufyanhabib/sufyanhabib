@@ -1,17 +1,98 @@
 [![image](https://user-images.githubusercontent.com/26720225/229844268-4f112acf-8cc5-41a1-a81c-040a0bf3300c.png)](https://pbs.twimg.com/profile_banners/739818907/1660448770/1500x500)
 
-# 💫 About Me:
-Hi 🙏, I'm Abubakar Habib<br>A passionate software-developer student from Bihar, India.<br>I completed MCA last year in 2022, from <br> 
-Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur, Bihar<br>
+ 
 <img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/>
+<div align="left">
 
-🔭 As a fresher, I am currently working on practice projects to hone my skills and gain experience in the field.<br>
-🔥 My goal is to develop a strong foundation in web development and prepare for future opportunities in the field.<br>
+# 👨‍💼 Abubakar Habib
+**Network Engineer | React.js Developer | Hacktoberfest Contributor**
+<br>
+**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
 
-🌱 I am currently learning and improving my skills on the MERN stack. As a Fresher, <br>
-🌱 I am dedicated to mastering the MERN stack and expanding my knowledge of web development. <br>
-🌱 I am always seeking out new challenges and opportunities to apply my skills in practical projects. <br>
-🌱 With a focus on continuous learning and improvement, I am committed to becoming a proficient MERN stack developer.<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanahab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar-habib/)
+
+</div>
+
+---
+
+## 🎯 Professional Summary
+
+**IT Professional with proven Network Engineering experience** transitioning into **Frontend Development** with React.js. Demonstrated ability to manage IT infrastructure, troubleshoot complex networking issues, and deliver production-ready web applications.
+
+**Key Strengths:**
+- **Hands-on IT Operations**: BMC HMIS project experience (Nivenshan Technologies)
+- **Modern Web Development**: React.js, responsive design, MERN stack
+- **Open Source Contribution**: Hacktoberfest participant
+- **Technical Certifications**: CCNA fundamentals, Framework Valley React
+
+---
+
+## 💼 Career Experience
+
+### **Junior Consultant (Network Engineer)**
+*Nivenshan Technologies Pvt Ltd | BMC HMIS Project | Mumbai | Jan 2025 - Jul 2025*
+
+- Managed daily IT infrastructure operations, troubleshooting, and system monitoring
+- Resolved connectivity issues and escalated advanced cases to senior teams
+- Ensured policy compliance while addressing user requests for 100+ healthcare system users
+- **Key Result**: Maintained 99% uptime for critical hospital management system
+
+### **IT Support & Training Engineer**
+*Ntrain Digital | Noida Sector-2 | Aug 2024 - Dec 2024*
+
+- Delivered CCNA fundamentals training and LAN/WAN configuration support
+- Assisted IP addressing, OS installations, and network troubleshooting
+- Created internal knowledge base documentation adopted by training team
+- **Key Result**: Documented 50+ troubleshooting procedures
+
+---
+
+## 🛠️ Technical Proficiencies
+
+| **Infrastructure** | **Development** | **Certifications** |
+|---|---|---|
+| CCNA (Routing & Switching) | React.js (Framework Valley) | Hacktoberfest 2023 |
+| Windows Server 2022 | HTML/CSS/JavaScript | CodeDEX Summer Hackathon |
+| LAN/WAN Configuration | Responsive Design | Legend of Python |
+| Network Troubleshooting | Git/GitHub | |
+
+---
+
+## 🚀 Featured Work
+
+[![Aro Pharma Website](https://github-readme-stats.vercel.app/api/pin/?username=sufyanahab&repo=aropharma-website&theme=dark)](https://github.com/sufyanahab/aropharma-website)
+**Modern responsive pharma website** with Quick Enquiry forms and mobile-first design
+
+---
+
+## 🎓 Education
+
+**MCA - Babasaheb Bhimrao Ambedkar Bihar University**  
+Muzaffarpur, Bihar | Completed 2022
+
+---
+
+## 📬 Contact & Availability
+
+<div align="left">
+<table>
+<tr>
+<td><a href="https://linkedin.com/in/abubakar-habib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
+<td><a href="mailto:abubakar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></td>
+<td><a href="https://twitter.com/abubakarhabib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a></td>
+</tr>
+</table>
+</div>
+
+**📍 Location**: Patna, Bihar, India  
+**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
+**🕐 Available**: Immediate
+
+---
+
+*“Delivering reliable IT infrastructure today, building innovative web experiences tomorrow.”*
+ 
 <br>
 ⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
 
