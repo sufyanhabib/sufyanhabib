@@ -12,6 +12,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanhabib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abubakar-habib-58010b142)
 
+🛠️ **"Delivering reliable IT infrastructure today** 🔗🖥️ **, building innovative web experiences tomorrow."** 🌐🚀✨
+<br>
+⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
 </div>
 
 
@@ -104,17 +107,7 @@ Muzaffarpur, Bihar | Completed 2022
 **💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
 **🕐 Available**: Immediate
 
----
-
-*“Delivering reliable IT infrastructure today, building innovative web experiences tomorrow.”*
- 
-<br>
-⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
-
-
-
-
-
+--
  
 ## 🧰 Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
