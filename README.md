@@ -76,10 +76,11 @@
 
 ---
 
-## 🚀 Featured Work
+
+<!--## 🚀 Featured Work
 
 [![Aro Pharma Website](https://github-readme-stats.vercel.app/api/pin/?username=sufyanahab&repo=aropharma-website&theme=dark)](https://github.com/sufyanahab/aropharma-website)
-**Modern responsive pharma website** with Quick Enquiry forms and mobile-first design
+**Modern responsive pharma website** with Quick Enquiry forms and mobile-first design -->
 
 ---
 
