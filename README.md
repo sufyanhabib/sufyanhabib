@@ -56,7 +56,7 @@
 - **Key Result**: Maintained 99% uptime for critical hospital management system
 
 ### **IT Support & Training Engineer**
-*NTPL Digital | Noida Sector-2 | Aug 2024 - Dec 2024*
+*NTPL Digital | Noida Sector-15 | Aug 2024 - Dec 2024*
 
 - Delivered CCNA fundamentals training and LAN/WAN configuration support
 - Assisted IP addressing, OS installations, and network troubleshooting
