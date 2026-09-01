@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abubakar-habib-58010b142)
 <br/>
 **Network Engineer | React Developer | Open Source Contributor**  
-**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles <br />
-<img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/>
+**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles                                                        <img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/><br /> 
 🛠️ **"Delivering reliable IT infrastructure today** 🔗🖥️ **,<br /> building innovative web experiences tomorrow."** 🌐🚀✨
 <br>
 ⚡  Happiness comes when your work and words are of benefit to yourself and others.<br>
