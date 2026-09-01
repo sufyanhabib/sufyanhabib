@@ -1,12 +1,10 @@
 [![image](https://user-images.githubusercontent.com/26720225/229844268-4f112acf-8cc5-41a1-a81c-040a0bf3300c.png)](https://pbs.twimg.com/profile_banners/739818907/1660448770/1500x500)
 
  
-<img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/>
-<div align="left">
 
 # 👨‍💼 Abubakar Habib
 **Network Engineer | React Developer | Open Source Contributor**  
-**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles  
+**💼 Open to**: Full-time **Frontend Developer** | **Network Engineer** roles   <img align="right" alt="custom octocat" width="150" src="https://i.postimg.cc/76CYhGpM/octocat-1703313914463.png"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyanhabib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abubakar-habib-58010b142)
